@@ -1,5 +1,5 @@
 <h2 align="centre">SLMusic Bot 🎵</h2>
-<img src:- https://telegra.ph/file/955b5fca24b7e0c58c833.jpg /img src>
+<img src="https://telegra.ph/file/955b5fca24b7e0c58c833.jpg">
 
 <h3>Requirements 📝</h3>
 
