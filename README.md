@@ -1,4 +1,4 @@
-<h2 align="centre">Music Play Bot 🎵</h2>
+<h2 align="centre">SLMusic Bot 🎵</h2>
 
 <h3>Requirements 📝</h3>
 
